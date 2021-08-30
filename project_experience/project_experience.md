@@ -52,6 +52,11 @@ New - Assigned - Open - Fixed and pending for fix - Re-test - Verified and Close
 </p></details>
 
 #### 1.自我介绍
+- 经历：目前在Shopee担任QA Engineer，
+主要负责公司数据team开发的web数据产品的测试工作。
+工作中主要负责：需求评审（PRD review），测试计划和方案的编写，测试案例的设计，测试执行和编写测试报告，以及bug的追踪与管理等工作。
+- 测试内容：功能测试，API testing，data testing，编程语言是python，测试框架是pytest；bug追踪与管理主要是用jira
+
 #### 2. 你现在的测试流程描述下
 #### 3.挑一个你最熟悉的项目描述下，说一说你在其中的工作
 #### 4.作为测试工程师,怎么保证软件的质量?(怎么做好一个测试)
